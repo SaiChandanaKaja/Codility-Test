@@ -1,3 +1,5 @@
+/* Finding all prime factors of a given numbers /
+
 #include <stdio.h>
 
 int main() {
